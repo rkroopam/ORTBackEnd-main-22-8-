@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const initiateTest = (req, res) => {
+};
+const getTest = (req, res) => {
+};
+const updateTest = (req, res) => {
+};
+const getTestList = (req, res) => {
+};
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidGVzdHMuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9zcmMvYXBpcy90ZXN0cy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOztBQUVBLE1BQU0sWUFBWSxHQUFHLENBQUMsR0FBNEIsRUFBRSxHQUE2QixFQUFFLEVBQUU7QUFFckYsQ0FBQyxDQUFBO0FBRUQsTUFBTSxPQUFPLEdBQUcsQ0FBQyxHQUE0QixFQUFFLEdBQTZCLEVBQUUsRUFBRTtBQUVoRixDQUFDLENBQUE7QUFFRCxNQUFNLFVBQVUsR0FBRyxDQUFDLEdBQTRCLEVBQUUsR0FBNkIsRUFBRSxFQUFFO0FBRW5GLENBQUMsQ0FBQTtBQUVELE1BQU0sV0FBVyxHQUFHLENBQUMsR0FBNEIsRUFBRSxHQUE2QixFQUFFLEVBQUU7QUFFcEYsQ0FBQyxDQUFBIn0=

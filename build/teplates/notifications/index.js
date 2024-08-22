@@ -1,0 +1,4 @@
+"use strict";
+const getNotficationTemplate = (notificationType, data) => {
+};
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvdGVwbGF0ZXMvbm90aWZpY2F0aW9ucy9pbmRleC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQUEsTUFBTSxzQkFBc0IsR0FBRyxDQUFDLGdCQUF3QixFQUFFLElBQVMsRUFBRSxFQUFFO0FBRXZFLENBQUMsQ0FBQSJ9

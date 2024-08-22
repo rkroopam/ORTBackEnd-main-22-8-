@@ -1,0 +1,31 @@
+{
+	"database": {
+		"url": "mongodb://localhost:27017/ort-local"
+	},
+	"server": {
+		"port": "4000",
+		"apiURL": "http://localhost:4001",
+		"isClusteringEnabled": false
+	},
+	"front": {
+		"url": "https://localhost:4001"
+	},
+	"jwt": {
+		"secret": "**********",
+		"expiredTime": "**********"
+	},
+	"aws": {
+		"AWS_ACCESS_KEY": "**********",
+		"AWS_SECRET_ACCESS_KEY": "**********"
+	},
+	"mail": {
+		"service": "**********",
+		"mailId": "**********",
+		"password": "**********",
+		"sendgridAPIKey": "**********" 
+	},
+	"admin": {
+		"mailId": "**********",
+		"password": "**********"
+	}
+}
